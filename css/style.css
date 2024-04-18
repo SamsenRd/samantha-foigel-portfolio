@@ -406,8 +406,9 @@ header {
 }
 
 .portfolio__item {
-    background: var(--color-accent);
+    background-color: #F8F9F0;
     overflow: hidden;
+    border-radius: 10px;
 
 }
 
