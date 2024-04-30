@@ -214,11 +214,6 @@ header {
     opacity: 0;
 }
 
-
-
-
-
-
 .hamburger {
     display: block;
     position: relative;
@@ -299,7 +294,7 @@ header {
 .my-services {
     background-color:black;
     background-image: linear-gradient(rgba(0, 0, 0, 0.6),
-    rgba(42, 24, 24, 0.6)),url(../img/background2.jpg);
+    rgba(42, 24, 24, 0.6)),url(../img/background2-min.jpg);
     background-size: cover;
     background-blend-mode: normal;
     color: white;
